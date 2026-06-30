@@ -25,7 +25,7 @@
 | **agent-trust-oracle** | Read-only pay-per-call trust scores for ERC-8004 agents on Base | [trust.nsgoods.org](https://trust.nsgoods.org) |
 | **band-decision-desk** | 3-agent enterprise approval workflow with veto-loop & audit trail | — |
 | **PlugInSolarHub** | US plug-in/balcony solar — kits, savings calculator, 50-state tracker + free API | [pluginsolarhub.org](https://pluginsolarhub.org) |
-| **BalconySolarHub** | UK balcony solar guide — BS 7671 Amд 4, G98 notification | [balconysolarhub.co.uk](https://balconysolarhub.co.uk) |
+| **BalconySolarHub** | UK balcony solar guide — BS 7671 Amendment 4, G98 notification | [balconysolarhub.co.uk](https://balconysolarhub.co.uk) |
 
 ### 🧰 Stack
 
