@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:1f6feb,100:8957e5&height=200&section=header&text=Nikolaos%20Dimitriadis&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Building%20for%20the%20AI%20agent%20economy&descSize=18&descAlignY=60" width="100%"/>
+<img src="assets/banner.png" alt="Nikolaos Dimitriadis — building for the AI agent economy" width="100%"/>
 
-<a href="https://github.com/Nikoble1926"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Indie+builder+in+the+AI+agent+economy+%E2%9A%A1;x402+pay-per-call+services+%E2%80%A2+autonomous+agents;Open+data+%E2%80%A2+SEO+web+%E2%80%A2+Python+%26+TypeScript;Shipping+fast+with+AI-augmented+development" alt="typing"/></a>
+<a href="https://github.com/Nikoble1926"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=DB2777&center=true&vCenter=true&width=720&lines=Indie+builder+in+the+AI+agent+economy+%E2%9A%A1;x402+pay-per-call+services+%E2%80%A2+autonomous+agents;Open+data+%E2%80%A2+SEO+web+%E2%80%A2+Python+%26+TypeScript;Shipping+fast+with+AI-augmented+development" alt="typing"/></a>
 
 📍 Liverpool, UK · ⚡ x402 / agentic commerce · 🌞 plug-in solar web
 
@@ -47,6 +47,8 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikoble1926&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikoble1926&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikoble1926&bg_color=0d1117&color=f471b5&line=a371f7&point=ffffff&area=true&hide_border=true&radius=10" alt="activity graph" width="98%"/>
+
 </div>
 
 ### 🔗 Connect
@@ -55,5 +57,5 @@
 [![x402 signals](https://img.shields.io/badge/x402-signals.nsgoods.org-6f42c1?style=flat-square)](https://signals.nsgoods.org)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Nikoble1926&style=flat-square&color=1f6feb" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Nikoble1926&style=flat-square&color=db2777" alt="views"/>
 </div>
