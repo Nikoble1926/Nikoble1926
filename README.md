@@ -2,7 +2,7 @@
 
 <img src="assets/banner.png" alt="Nikolaos Dimitriadis — building for the AI agent economy" width="100%"/>
 
-<a href="https://github.com/Nikoble1926"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=DB2777&center=true&vCenter=true&width=720&lines=Indie+builder+in+the+AI+agent+economy+%E2%9A%A1;x402+pay-per-call+services+%E2%80%A2+autonomous+agents;Open+data+%E2%80%A2+SEO+web+%E2%80%A2+Python+%26+TypeScript;Shipping+fast+with+AI-augmented+development" alt="typing"/></a>
+<a href="https://github.com/Nikoble1926"><img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=22&duration=3200&pause=800&color=8A9099&center=true&vCenter=true&width=720&letterSpacing=2px&lines=Indie+builder+in+the+AI+agent+economy+%E2%9A%A1;x402+pay-per-call+services+%E2%80%A2+autonomous+agents;Open+data+%E2%80%A2+SEO+web+%E2%80%A2+Python+%26+TypeScript;Shipping+fast+with+AI-augmented+development" alt="typing"/></a>
 
 📍 Liverpool, UK · ⚡ x402 / agentic commerce · 🌞 plug-in solar web
 
